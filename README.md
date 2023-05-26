@@ -2,9 +2,11 @@
 description: Useful links shared in the Mathcastles Discord
 ---
 
-# Great Resources
+# Creative Coding Resources
 
 This will be more organized over time but just to get started, dump links in here. We can curate the garden at a later date.
+
+_A Mathcastles community project, not officially affiliated with 113 or Xalt, who are ded._&#x20;
 
 \---
 

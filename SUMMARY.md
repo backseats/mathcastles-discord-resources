@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Great Resources](README.md)
+* [Creative Coding Resources](README.md)
